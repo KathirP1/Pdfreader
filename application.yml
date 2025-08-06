@@ -1,0 +1,22 @@
+pdfreader:
+  documents:
+    baseFolders:
+      - "/app/data/PKNS_document"
+      - "/app/data/PKNS_document_Copy"
+
+  watch:
+    enabled: true
+    tempFolders:
+      - "/app/data/PKNS_document"
+      - "/app/data/PKNS_document_Copy"
+
+  index:
+    tempDirs:
+      - "/app/data/PKNS_index_temp"
+      - "/app/data/ANOTHER_index_temp"
+    permDirs:
+      - "/app/data/PKNS_index_perm"
+      - "/app/data/ANOTHER_index_perm"
+
+server:
+  port: 9090
