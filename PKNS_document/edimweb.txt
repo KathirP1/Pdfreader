@@ -1,0 +1,9 @@
+BKS test site - http://103.13.121.19:90/
+COSEC test site - http://103.13.121.19:5039/
+
+
+Japan TechTtttansfer (JTT)
+
+Credential for both site;
+username: elmsb
+password: Ekcms2020!#@
